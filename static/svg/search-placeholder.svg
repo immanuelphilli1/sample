@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.484" height="57.626" viewBox="0 0 61.484 57.626">
+  <g id="search-placeholder" transform="translate(-698.637 -295.764)">
+    <path id="Path_1915" data-name="Path 1915" d="M142.4,0V57.507l6.6-4.831,4.9,4.876,4.9-4.875,4.971,4.949,4.971-4.949,4.9,4.875,4.9-4.876,6.6,4.939V0Zm39.471,50.651-3.343-2.568-4.9,4.876-4.9-4.876-4.971,4.949-4.971-4.949-4.9,4.876L149,48.083l-3.343,2.568V3.255h36.217Zm-7.52-37.876H153.174v-2.17h21.176ZM163.763,34.9H153.175v-2.17h10.588Zm10.588-11.062H153.174v-2.17h21.176Z" transform="translate(556.237 295.764)" fill="#f07809"/>
+    <g id="Group_2826" data-name="Group 2826" transform="translate(-9)">
+      <g id="Ellipse_72" data-name="Ellipse 72" transform="translate(724 303)" fill="#fff" stroke="#f07809" stroke-width="3">
+        <circle cx="18" cy="18" r="18" stroke="none"/>
+        <circle cx="18" cy="18" r="16.5" fill="none"/>
+      </g>
+      <line id="Line_85" data-name="Line 85" x2="13" y2="13" transform="translate(754 333)" fill="none" stroke="#f07809" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
